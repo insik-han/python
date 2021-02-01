@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/9498
 a = int(input())
 if(a >= 90 and a <= 100):
   print("A")
